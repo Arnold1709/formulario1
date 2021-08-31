@@ -38,3 +38,4 @@ D:\ÁRCHIVOS\proyectos\progra 1\lab\formulario1\obj\Debug\net5.0\ref\formulario1
 D:\ÁRCHIVOS\proyectos\progra 1\lab\formulario1\obj\Debug\net5.0\formulario1.pdb
 D:\ÁRCHIVOS\proyectos\progra 1\lab\formulario1\obj\Debug\net5.0\formulario1.genruntimeconfig.cache
 D:\ÁRCHIVOS\proyectos\progra 1\lab\formulario1\obj\Debug\net5.0\formulario1.csproj.CopyComplete
+D:\ÁRCHIVOS\proyectos\progra 1\lab\formulario1\obj\Debug\net5.0\Razor\Views\Producto\Index.cshtml.g.cs
